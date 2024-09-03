@@ -1,0 +1,13 @@
+.lista2 {
+    color: red;
+}
+
+.paragrafo {
+    color: rgb(255, 0, 0);
+    background-color: rgb(151, 151, 151);
+    font-weight: 600;
+    width: 190px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
